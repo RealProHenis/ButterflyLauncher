@@ -5,7 +5,7 @@ Download the latest version here: https://github.com/RealProHenis/ButterflyLaunc
 # ⚠️WARNING
 Windows Security (and any other antivirus) will false flag this program as a virus. I'm working on a fix for this, but for now you'll have to download the Butterfly Launcher to a folder that's excluded from your Windows Security/other antivirus. Learn how to exclude a folder from Windows Security here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26
 
-# 🚨Requirements:
+# 🚨REQUIREMENTS
 Butterfly Launcher .NET 6.0 Desktop Runtime. Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
 
 # 💙SPECIAL THANKS
