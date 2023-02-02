@@ -7,7 +7,6 @@ Windows Security (and any other antivirus) will false flag this program as a vir
 
 # 🚨REQUIREMENTS
 Butterfly Launcher requires .NET 6.0 Desktop Runtime. Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
-(.NET 6.0 Desktop Runtime for x86: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x86-installer)
 
 # 💙SPECIAL THANKS
 None of this would be possible without help from these legends:
