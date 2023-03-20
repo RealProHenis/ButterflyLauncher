@@ -8,7 +8,7 @@ Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/Butte
 Butterfly Launcher requires .NET 6.0 Desktop Runtime.<br>Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
 
 ## ⛔Known Issues
--Launcher crashes when opening: 7.30 / 7.40 / 8.51 / 9.00 / 9.01
+-Launcher crashes when opening: 7.30 / 7.40 / 8.51 / 9.00 / 9.01 / 9.30
 
 ## 💙Special Thanks
 None of this would be possible without help from these legends:
