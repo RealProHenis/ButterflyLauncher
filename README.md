@@ -4,7 +4,7 @@ The Butterfly Launcher allows you to download & play old versions of Fortnite!<b
 # ⬇️DOWNLOAD 
 Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/ButterflyLauncher_Latest.zip
 
-# ❗KNOWN ISSUES
+# ⛔KNOWN ISSUES
 -Launcher crashes when trying to open Fortnite 7.40
 
 # ⚠️WARNING
