@@ -5,7 +5,7 @@ The Butterfly Launcher allows you to download, play & host your own games of old
 Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/ButterflyLauncher_Latest.zip
 
 # ⛔KNOWN ISSUES
--Launcher crashes when opening: 7.30 / 7.40 / 8.51 / 9.00
+-Launcher crashes when opening: 7.30 / 7.40 / 8.51 / 9.00 / 9.01
 
 # ⚠️WARNING
 Windows Security (and any other antivirus) may false flag this program as a virus. I'm working on a fix for this, but for now you'll have to download the Butterfly Launcher to a folder that's excluded from your Windows Security/other antivirus. Learn how to exclude a folder from Windows Security here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26
