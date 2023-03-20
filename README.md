@@ -1,5 +1,5 @@
 # 🦋Butterfly Launcher
-The Butterfly Launcher allows you to download & play old versions of Fortnite!<br>
+The Butterfly Launcher allows you to download, play & host your own games of old Fortnite!<br>
 
 # ⬇️DOWNLOAD 
 Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/ButterflyLauncher_Latest.zip
