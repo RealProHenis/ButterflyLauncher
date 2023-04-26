@@ -1,4 +1,4 @@
-# 🦋Butterfly Launcher V1
+# 🦋Butterfly Launcher
 The Butterfly Launcher allows you to download, play & host your own games of old Fortnite!<br>
 
 ## ⬇️Download
