@@ -13,7 +13,7 @@ Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/r
 -130+ Fortnite Versions Available For Download</br>
 
 ## 💙Special Thanks
-None of this would be possible without help from these legends:
+None of this would be possible without help from these legends:</br>
 -Lawin#9629</br>
 -Milxnor#3531</br>
 -Devoooo#5733</br>
