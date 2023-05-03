@@ -8,9 +8,9 @@ Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/Butte
 Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
 
 ## ⭐Features
--Launch almost ANY version of Fortnite!</br>
--Matchmaking Support to Join Custom Dedicated Fortnite Servers</br>
--130+ Fortnite Versions Available For Download</br>
+• Launch almost ANY version of Fortnite!</br>
+• Matchmaking Support to Join Custom Dedicated Fortnite Servers</br>
+• 130+ Fortnite Versions Available For Download</br>
 
 ## 💙Special Thanks
 None of this would be possible without help from these legends:</br>
