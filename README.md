@@ -12,6 +12,7 @@ Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/Butte
 -130+ Fortnite Versions Available For Download
 
 🚨Butterfly Launcher requires .NET 6.0 Desktop Runtime.
+
 Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
 
 ## 💙Special Thanks
