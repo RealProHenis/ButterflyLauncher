@@ -1,6 +1,6 @@
 # 🦋Butterfly Launcher
 The Butterfly Launcher allows you to download, play & host your own games of old Fortnite!<br>
-Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/ButterflyLauncher_Latest.zip<br>
+➡️Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/ButterflyLauncher_Latest.zip<br>
 
 ## 🚨Requirements
 Butterfly Launcher requires .NET 6.0 Desktop Runtime.</br>
