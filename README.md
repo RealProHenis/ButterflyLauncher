@@ -6,7 +6,9 @@ Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/Butte
 
 ## ⭐Features
 -Launch almost ANY version of Fortnite!
+
 -Matchmaking Support to Join Custom Dedicated Fortnite Servers
+
 -130+ Fortnite Versions Available For Download
 
 🚨Butterfly Launcher requires .NET 6.0 Desktop Runtime.
