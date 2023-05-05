@@ -9,7 +9,6 @@ Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/r
 ## ⭐Features
 • Launch almost ANY version of Fortnite</br>
 • 130+ Fortnite versions available for download (thanks to blk, realkyro, & VastBlast)</br>
-• Embedded Compactor program to easily compress your Fortnite builds & save disk space
 • Matchmaking support to join custom dedicated servers</br>
 • Host your own old Fortnite servers to play with friends</br>
 • Customize the Item Shop in-game to show the skins you want</br>
@@ -18,6 +17,7 @@ Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/r
 • Add custom support a creator codes that work in-game</br>
 • Use your own custom console/backend DLL</br>
 • Start Fortnite with your own launch arguments</br>
+• Includes Compactor to easily compress your Fortnite builds & save space</br>
 
 ## 💙Special Thanks
 None of this would be possible without help from these legends:</br>
