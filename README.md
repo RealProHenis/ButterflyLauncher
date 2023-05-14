@@ -3,8 +3,14 @@ The Butterfly Launcher allows you to download, play & host your own games of old
 ➡️Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/ButterflyLauncher_Latest.zip<br>
 
 ## 🚨Requirements
-Butterfly Launcher requires .NET 6.0 Desktop Runtime.</br>
+Butterfly Launcher requires .NET 6.0 Desktop Runtime in order to run</br>
 Download it here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.13-windows-x64-installer
+
+## ⚠️Warning
+Windows & other antivirus software might false flag the Butterfly Launcher as a virus.</br>
+This happens because the Butterfly Launcher injects custom code into the Fortnite game client, which antivirus software believes is a malicious action
+To prevent Windows from deleting the Butterfly Launcher, you can exclude it from Windows Defender.
+Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26
 
 ## ⭐Features
 • Launch almost ANY version of Fortnite</br>
