@@ -14,7 +14,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 
 ## ⭐Features
 • Launch almost ANY version of Fortnite</br>
-• 130+ Fortnite versions available for download (thanks to blk, realkyro, & VastBlast)</br>
+• 50+ Fortnite versions available for download (thanks to blk)</br>
 • Matchmaking support to join custom dedicated servers</br>
 • Host your own old Fortnite servers to play with friends</br>
 • Customize the Item Shop in-game to show the skins you want</br>
