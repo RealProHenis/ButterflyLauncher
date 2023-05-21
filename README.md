@@ -18,6 +18,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Give yourself nearly infinite vbucks (cosmetic only)</br>
 • Add custom support a creator codes that work in-game</br>
 • Use your own custom console/backend DLL</br>
+• Login to backend's that require credentials</br>
 • Start Fortnite with your own launch arguments</br>
 • Includes Compactor to easily compress your Fortnite builds & save space (credit: Freaky)</br>
 
