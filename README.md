@@ -14,7 +14,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Matchmaking support to join custom dedicated servers</br>
 • Host your own old Fortnite servers to play with friends (I recommend [Project Reboot](https://github.com/Milxnor/Project-Reboot-3.0))</br>
 • Customize the Item Shop in-game to show the skins you want</br>
-• Saved in-game settings (thanks to Lawin)</br>
+• Saved in-game settings (thanks to [Lawin0129](https://github.com/Lawin0129))</br>
 • Give yourself nearly infinite vbucks (cosmetic only)</br>
 • Add custom support a creator codes that work in-game</br>
 • Use your own custom console/backend DLL</br>
