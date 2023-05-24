@@ -10,7 +10,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 
 ## ⭐Features
 • Launch almost ANY version of Fortnite</br>
-• 50+ Fortnite versions available for download (thanks to blk)</br>
+• 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))</br>
 • Matchmaking support to join custom dedicated servers</br>
 • Host your own old Fortnite servers to play with friends</br>
 • Customize the Item Shop in-game to show the skins you want</br>
@@ -21,11 +21,11 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Connect to custom backend host/port</br>
 • Login to backends that require credentials</br>
 • Start Fortnite with your own launch arguments</br>
-• Includes Compactor to easily compress your Fortnite builds & save space (credit: Freaky)</br>
+• Includes [Compactor](https://github.com/Freaky/Compactor) to easily compress your Fortnite builds & save disk space (credit: [Freaky](https://github.com/Freaky))</br>
 
 ## 💙Special Thanks
 None of this would be possible without help from these legends:</br>
--Lawin#9629</br>
--Milxnor#3531</br>
--Devoooo#5733</br>
--blk#6964</br>
+-[Lawin0129](https://github.com/Lawin0129)</br>
+-[Milxnor](https://github.com/milxnor)</br>
+-[Devoooo#5733]</br>
+-[blk](https://github.com/simplyblk)</br>
