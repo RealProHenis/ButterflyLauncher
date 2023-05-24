@@ -27,5 +27,5 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 None of this would be possible without help from these legends:</br>
 -[Lawin0129](https://github.com/Lawin0129)</br>
 -[Milxnor](https://github.com/milxnor)</br>
--[Devoooo#5733]</br>
+-Devoooo#5733</br>
 -[blk](https://github.com/simplyblk)</br>
