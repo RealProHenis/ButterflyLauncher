@@ -16,7 +16,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Customize the Item Shop in-game to show the skins you want</br>
 • Saved in-game settings (thanks to [Lawin0129](https://github.com/Lawin0129))</br>
 • Give yourself nearly infinite vbucks (cosmetic only)</br>
-• Add custom support a creator codes that work in-game</br>
+• Add custom support a creator codes that work in-game (cosmetic only)</br>
 • Use your own custom console/backend DLL</br>
 • Connect to custom backend host/port</br>
 • Login to backends that require credentials</br>
