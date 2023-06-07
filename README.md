@@ -10,12 +10,12 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 
 ## ⭐Features
 • Launch almost ANY version of Fortnite<br>
-• Explore old Fortnite maps in singleplayer (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0))<br>
+• Explore old Fortnite maps in singleplayer (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))<br>
 • Matchmaking support to join custom dedicated servers<br>
-• Host your own old Fortnite servers to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0))<br>
+• Host your own old Fortnite servers to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Customize the Item Shop in-game to show the skins you want<br>
-• Saved in-game settings (thanks to [Lawin0129](https://github.com/Lawin0129))<br>
+• Saved in-game settings (thanks to [LawinServerV1](https://github.com/Lawin0129/LawinServer) by [Lawin0129](https://github.com/Lawin0129))<br>
 • Give yourself nearly infinite vbucks (cosmetic only)<br>
 • Add custom support a creator codes that work in-game (cosmetic only)<br>
 • Use your own custom console/backend DLL<br>
