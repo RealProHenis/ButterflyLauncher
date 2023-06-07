@@ -12,7 +12,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Launch almost ANY version of Fortnite<br>
 • Explore old Fortnite maps in singleplayer (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Start events in singleplayer by pressing F2 once you load into a game, and then this console command:<br>
--Press the tilde key (~) and type```cheat startevent``` and then press enter. The event should start within a few seconds<br>
+-Press the tilde key (~) and type ```cheat startevent``` and then press enter. The event should start within a few seconds<br>
 • 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))<br>
 • Matchmaking support to join custom dedicated servers<br>
 • Host your own old Fortnite servers to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
