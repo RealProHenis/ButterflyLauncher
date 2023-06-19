@@ -11,7 +11,7 @@ To prevent Windows from deleting the Butterfly Launcher, you can add an exclusio
 Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26<br>
 
 ## ⭐Features
-• Launch almost ANY version of Fortnite<br>
+• Launch almost ANY old version of Fortnite<br>
 • Explore old Fortnite maps in singleplayer (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Re-watch old events like Marshmello, Astronomical, The End, The Device, The Showdown, & more!<br>
 • 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))<br>
