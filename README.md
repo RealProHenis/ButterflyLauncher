@@ -23,6 +23,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Give yourself nearly infinite vbucks (cosmetic only)<br>
 • Add custom support a creator codes that work in-game (cosmetic only)<br>
 • Use your own custom console/backend DLL<br>
+• Customize unreal engine console keybind<br>
 • Connect to custom backend host/port<br>
 • Login to backends that require credentials<br>
 • Start Fortnite with your own launch arguments<br>
