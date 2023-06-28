@@ -12,10 +12,10 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 
 ## ⭐Features
 • Launch almost ANY old version of Fortnite<br>
+• 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))<br>
 • Explore old Fortnite maps in singleplayer (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Re-watch old events like Marshmello, Astronomical, The End, The Device, The Showdown, & more!<br>
 • Wear the skin you select from the lobby in singleplayer mode<br>
-• 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))<br>
 • Matchmaking support to join custom dedicated servers<br>
 • Host your own old Fortnite servers to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Customize the Item Shop in-game to show the skins you want<br>
