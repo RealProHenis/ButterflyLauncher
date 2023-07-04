@@ -15,15 +15,15 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))<br>
 • Explore old Fortnite maps in singleplayer (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Re-watch old events like Marshmello, Astronomical, The End, The Device, The Showdown, & more!<br>
-• Wear the skin you select from the lobby in singleplayer mode<br>
-• Matchmaking support to join custom dedicated servers<br>
-• Host your own old Fortnite servers to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
-• Customize the Item Shop in-game to show the skins you want<br>
+• Host your own games of old Fortnite to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Saved in-game settings (thanks to [LawinServerV1](https://github.com/Lawin0129/LawinServer) by [Lawin0129](https://github.com/Lawin0129))<br>
+• Matchmaking support to join dedicated servers<br>
+• Customize the Item Shop in-game to show the skins you want<br>
 • Give yourself nearly infinite vbucks (cosmetic only)<br>
-• Add custom support a creator codes that work in-game (cosmetic only)<br>
-• Use your own custom console/backend DLL<br>
-• Injected Memory Fix DLL to help reduce crashing on some systems<br>
+• Wear the skin you select from the lobby in singleplayer mode<br>
+• Add custom support-a-creator codes that work in-game (cosmetic only)<br>
+• Use your own custom unreal engine console/backend DLLs<br>
+• Injected Memory Fix DLL to help reduce crashing<br>
 • Customize unreal engine console keybind<br>
 • Connect to custom backend host/port<br>
 • Login to backends that require credentials<br>
