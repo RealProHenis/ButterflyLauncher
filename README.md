@@ -14,6 +14,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Launch almost ANY old version of Fortnite<br>
 • 50+ Fortnite versions available for download (thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))<br>
 • Explore old Fortnite maps in singleplayer (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
+• Server browser that allows you to connect & play on publically available servers
 • Re-watch old events like Marshmello, Astronomical, The End, The Device, The Showdown, & more!<br>
 • Host your own games of old Fortnite to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
 • Saved in-game settings (thanks to [LawinServerV1](https://github.com/Lawin0129/LawinServer) by [Lawin0129](https://github.com/Lawin0129))<br>
