@@ -9,7 +9,7 @@ Windows & other antivirus software might false flag the Butterfly Launcher as a 
 The Butterfly Launcher injects special code into a custom Fortnite client, which antivirus software generally believes to be malicious.
 To prevent Windows from deleting the Butterfly Launcher or causing other issues, you can add an exclusion for it in Windows Security.<br>
 
-**NOTE:** You'll need to add an exclusion for the `ButterflyLauncher.exe` & also the ButterflyLauncher folder, located in the local appdata folder. (ex. C:\Users\<Username>\AppData\Local\ButterflyLauncher)<br><br>
+**NOTE:** You'll need to add an exclusion for the ButterflyLauncher.exe & also the ButterflyLauncher folder, located in the local appdata folder. *(ex. C:\Users\<Username>\AppData\Local\ButterflyLauncher)* <br><br>
 Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26<br>
 
 ## ⭐Features
