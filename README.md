@@ -30,7 +30,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Customize unreal engine console keybind<br>
 • Connect to custom backend host/port<br>
 • Login to backends that require credentials<br>
-• Fortnite Checker Tool to verify the version, build number, & unreal engine version of all Fortnite builds<br>
+• Tool to verify the version, build number, & unreal engine version for any Fortnite build<br>
 • Start Fortnite with your own launch arguments<br>
 • Includes [Compactor](https://github.com/Freaky/Compactor) to easily compress your Fortnite builds & save disk space (credit: [Freaky](https://github.com/Freaky))<br>
 
