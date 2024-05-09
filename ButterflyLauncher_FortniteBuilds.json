@@ -634,9 +634,9 @@
 	"7.40 [Manifest]": {
 		"url": "https://manifest.fnbuilds.services/7.40/7.40.manifest",
 		"title": "Chapter 1, Season 7",
-    "release_date": "02-13-2019",
-    "engine_version": "UE4.22",
-    "splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
-    "notes": "-Infantry Rifle added|-Limited Time Mode: Catch!|-Limited Time Mode: Team Rumble"
+    		"release_date": "02-13-2019",
+    		"engine_version": "UE4.22",
+    		"splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
+    		"notes": "-Infantry Rifle added|-Limited Time Mode: Catch!|-Limited Time Mode: Team Rumble"
 	}
 }
