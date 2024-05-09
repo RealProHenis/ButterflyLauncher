@@ -1,0 +1,642 @@
+{
+	"1.7.2 [3700114]": {
+		"url": "https://cdn.fnbuilds.services/1.7.2.zip",
+		"title": "Chapter 1, Season 0",
+		"release_date": "10-17-2017",
+		"engine_version": "UE4.16",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Added Voice Chat on PC|-You can now switch between teammates while spectating|-Removed mouse smoothing"
+	},
+	"1.8 [3724489]": {
+		"url": "https://cdn.fnbuilds.services/1.8.rar",
+		"title": "Chapter 1, Season 1",
+		"release_date": "10-25-2017",
+		"engine_version": "UE4.16",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Introducing “Slurp Juice,” a regeneration potion that grants 1 health and 1 shield per second for 25 seconds|-Halloween content, leaderboards and item store"
+	},
+	"1.8.1 [3729133]": {
+		"url": "https://cdn.fnbuilds.services/1.8.1.rar",
+		"title": "Chapter 1, Season 1",
+		"release_date": "11-02-2017",
+		"engine_version": "UE4.16",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Slurp Juice can now spawn as Floor Loot in addition to in chests|-Voice chat improvements"
+	},
+	"1.8.2 [3741772]": {
+		"url": "https://cdn.fnbuilds.services/1.8.2.rar",
+		"title": "Chapter 1, Season 1",
+		"release_date": "11-08-2017",
+		"engine_version": "UE4.16",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Adds the Bush|-Adjusted Pump Shotgun falloff damage"
+	},
+	"1.9 [3757339]": {
+		"url": "https://cdn.fnbuilds.services/1.9.rar",
+		"title": "Chapter 1, Season 1",
+		"release_date": "11-14-2017",
+		"engine_version": "UE4.16",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Launch pad added|-A new “Reset to Default” option has been added to the “Game” menu"
+	},
+	"1.9.1 [3775276]": {
+		"url": "https://cdn.fnbuilds.services/1.9.1.rar",
+		"title": "Chapter 1, Season 1",
+		"release_date": "11-29-2017",
+		"engine_version": "UE4.16",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Smoke Grenades added|-The original Rocket Launcher has replaced the Pumpkin Launcher"
+	},
+	"1.10 [3790078]": {
+		"url": "https://cdn.fnbuilds.services/1.10.rar",
+		"title": "Chapter 1, Season 1",
+		"release_date": "12-06-2017",
+		"engine_version": "UE4.19",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-50v50 added as a limited mode|-New inventory UI|-Reduced aim assist on controllers"
+	},
+	"1.11 [3807424]": {
+		"url": "https://cdn.fnbuilds.services/1.11.zip",
+		"title": "Chapter 1, Season 2",
+		"release_date": "12-14-2017",
+		"engine_version": "UE4.19",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Winter event, Season 2 begins|-Snowball Grenade Launcher, a festive Battle Bus, and other gifts waiting for you around the island."
+	},
+	"2.1.0 [3825894]": {
+		"url": "https://cdn.fnbuilds.services/2.1.0.zip",
+		"title": "Chapter 1, Season 2",
+		"release_date": "01-09-2018",
+		"engine_version": "UE4.19",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Cozy Campfire added to Save the World|-Changed the Boogie Bomb rarity to blue/rare"
+	},
+	"2.2.0 [3841827]": {
+		"url": "https://cdn.fnbuilds.services/2.2.0.rar",
+		"title": "Chapter 1, Season 2",
+		"release_date": "01-18-2018",
+		"engine_version": "UE4.19",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Big map update|-Friendly Fire is now disabled|-Removed the Scoped AR from Supply Drops"
+	},
+	"2.3.0 [3847564]": {
+		"url": "https://cdn.fnbuilds.services/2.3.rar",
+		"title": "Chapter 1, Season 2",
+		"release_date": "01-25-2018",
+		"engine_version": "UE4.19",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Added Chug Jug|-Added AutoRun|-Added a setting to disable aim assist on consoles"
+	},
+	"2.4.0 [3858292]": {
+		"url": "https://cdn.fnbuilds.services/2.4.0.zip",
+		"title": "Chapter 1, Season 2",
+		"release_date": "02-01-2018",
+		"engine_version": "UE4.19",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Minigun and Cozy Campfire added to Battle Royale|-Added “Controller Auto Run” option"
+	},
+	"2.4.2 [3870737]": {
+		"url": "https://cdn.fnbuilds.services/2.4.2.zip",
+		"title": "Chapter 1, Season 2",
+		"release_date": "02-07-2018",
+		"engine_version": "UE4.19",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Valentine's Day event|-Crossbow added|-Players will no longer slide off rooftops"
+	},
+	"2.5.0 [3889387]": {
+		"url": "https://cdn.fnbuilds.services/2.5.0.rar",
+		"title": "Chapter 1, Season 2",
+		"release_date": "02-13-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Impulse Grenade added|-SMG removed|-Added a key binding for 'Toggle Pickaxe' on PC"
+	},
+	"3.0 [3901517]": {
+		"url": "https://cdn.fnbuilds.services/3.0.zip",
+		"title": "Chapter 1, Season 3",
+		"release_date": "02-21-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Season 3 Battle Pass|-60 FPS on Console"
+	},
+	"3.1 [3917250]": {
+		"url": "https://cdn.fnbuilds.services/3.1.1.zip",
+		"title": "Chapter 1, Season 3",
+		"release_date": "02-28-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Hunting Rifle and Lucky Landing added|-Adjusted inconsistent drop rates for various weapon rarities"
+	},
+	"3.2 [3935073]": {
+		"url": "https://cdn.fnbuilds.services/3.2.zip",
+		"title": "Chapter 1, Season 3",
+		"release_date": "03-08-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Teams of 20 LTM|-Burnout (Battle Royale) All roads lead to Victory. Blaze your path with Burnout"
+	},
+	"3.3 [3942182]": {
+		"url": "https://cdn.fnbuilds.services/3.3.rar",
+		"title": "Chapter 1, Season 3",
+		"release_date": "03-15-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Remote Explosives and Blitz LTM|-Ammo box health increased from 120 to 250"
+	},
+	"3.5 [4008490]": {
+		"url": "https://cdn.fnbuilds.services/3.5.rar",
+		"title": "Chapter 1, Season 3",
+		"release_date": "04-11-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Port-a-Fort|-Replay System: Save your matches and watch them from any angle"
+	},
+	"3.6 [4019403]": {
+		"url": "https://cdn.fnbuilds.services/3.6.zip",
+		"title": "Chapter 1, Season 3",
+		"release_date": "04-24-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Added Clingers"
+	},
+	"4.0 [4039451]": {
+		"url": "https://cdn.fnbuilds.services/4.0.zip",
+		"title": "Chapter 1, Season 4",
+		"release_date": "05-02-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-The Crossbow has been vaulted|-Structures on the starting island can now be destroyed"
+	},
+	"4.1 [4053532]": {
+		"url": "https://cdn.fnbuilds.services/4.1.zip",
+		"title": "Chapter 1, Season 4",
+		"release_date": "05-08-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Thanos Gamemode|-Limited Time Mashup: Infinity Gauntlet"
+	},
+	"4.2 [4072250]": {
+		"url": "https://cdn.fnbuilds.services/4.2.zip",
+		"title": "Chapter 1, Season 4",
+		"release_date": "05-16-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+		"notes": "-Epic and Legendary Burst Assault Rifles, Trap nerf|-Added a new foraged item: Apples"
+	},
+	"4.4 [4117433]": {
+		"url": "https://cdn.fnbuilds.services/4.4.rar",
+		"title": "Chapter 1, Season 4",
+		"release_date": "06-11-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/c8zD1b3/Butterfly-Launcher-Splash-v4-2-4-5.jpg",
+		"notes": "-Thermal Scoped Assault Rifle added|-Limited Time Mode: Sniper Shootout V3"
+	},
+	"4.5 [4159770]": {
+		"url": "https://cdn.fnbuilds.services/4.5.rar",
+		"title": "Chapter 1, Season 4",
+		"release_date": "06-27-2018",
+		"engine_version": "UE4.20",
+		"splash": "https://i.ibb.co/c8zD1b3/Butterfly-Launcher-Splash-v4-2-4-5.jpg",
+		"notes": "-Dual Pistols added|-Celebrate summer with the Fireworks Launcher"
+	},
+	"5.00 [4214610]": {
+		"url": "https://cdn.fnbuilds.services/5.0.1.rar",
+		"title": "Chapter 1, Season 5",
+		"release_date": "07-12-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
+		"notes": "-S5 start|-ATK added|-Desert Biome Introduced|-New All Terrain Kart (ATK)! Grab some friends and go for a ride"
+	},
+	"5.10 [4240749]": {
+		"url": "https://cdn.fnbuilds.services/5.10.rar",
+		"title": "Chapter 1, Season 5",
+		"release_date": "07-25-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
+		"notes": "-Birthday update|-Engage in close quarters combat with the high capacity, fast firing Compact SMG"
+	},
+	"5.21 [4288479]": {
+		"url": "https://cdn.fnbuilds.services/5.21.rar",
+		"title": "Chapter 1, Season 5",
+		"release_date": "08-15-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
+		"notes": "-Heavy Sniper Rifle added|-Limited Time Mode: Soaring 50's|-Limited Time Mode: Sniper Shootout"
+	},
+	"5.30 [4305896]": {
+		"url": "https://cdn.fnbuilds.services/5.30.rar",
+		"title": "Chapter 1, Season 5",
+		"release_date": "08-23-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
+		"notes": "-Rift-To-Go added|-Limited Time Mode: Score Royale|-Limited Time Mode: Playground"
+	},
+	"5.40 [4352937]": {
+		"url": "https://cdn.fnbuilds.services/5.40.rar",
+		"title": "Chapter 1, Season 5",
+		"release_date": "09-05-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
+		"notes": "-High Stakes event|-Grappler added|-Limited Time Mode: The Getaway"
+	},
+	"5.41 [4363240]": {
+		"url": "https://cdn.fnbuilds.services/5.41.zip",
+		"title": "Chapter 1, Season 5",
+		"release_date": "09-19-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
+		"notes": "-Port-a-Fortress Added|-Spiky Stadium (Battle Royale - Playground)|-Limited Time Mode: Soaring Solos"
+	},
+	"6.00 [4395664]": {
+		"url": "https://cdn.fnbuilds.services/6.00.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "09-27-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Shadow Stones, pets, and map changes|-Updated Map: Islands floating, crops growing, Storm approaching"
+	},
+	"6.01 [4424678]": {
+		"url": "https://cdn.fnbuilds.services/6.1.1.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "10-03-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Chiller Added|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!"
+	},
+	"6.02 [4461277]": {
+		"url": "https://cdn.fnbuilds.services/6.2.1.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "10-10-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Quad Launcher Added|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game"
+	},
+	"6.10 [4480234]": {
+		"url": "https://cdn.fnbuilds.services/6.10.2.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "10-16-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Quadcrasher Added|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
+	},
+	"6.21 [4526925]": {
+		"url": "https://cdn.fnbuilds.services/6.21.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "11-01-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Balloons Added|-Fortnitemares Challenges (Battle Royale)|-Glider Re-deploy"
+	},
+	"6.22 [4543176]": {
+		"url": "https://cdn.fnbuilds.services/6.22.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "11-04-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Heavy Assault Rifle Added|-NFL Outfits (Battle Royale)|-Limited Time Event: Blitz!"
+	},
+	"6.30 [4573096]": {
+		"url": "https://cdn.fnbuilds.services/6.30.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "11-13-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Mounted Turret Added|-Limited Time Mode: Food Fight|-We are disabling Glider Re-Deploy in all default modes starting in v6.30"
+	},
+	"6.31 [4573279]": {
+		"url": "https://cdn.fnbuilds.services/6.31.rar",
+		"title": "Chapter 1, Season 6",
+		"release_date": "11-27-2018",
+		"engine_version": "UE4.21",
+		"splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+		"notes": "-Epic and Legendary Pump Shotgun|-Limited Time Mode: Team Rumble|-Added Stink Bombs to Supply Drops|-Added Stink Bombs to Supply Drops"
+	},
+	"7.00 [4629139]": {
+		"url": "https://cdn.fnbuilds.services/7.00.rar",
+		"title": "Chapter 1, Season 7",
+		"release_date": "12-06-2018",
+		"engine_version": "UE4.22",
+		"splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
+		"notes": "-Season 7 begins|-X-4 Stormwing Plane|-Creative (New Mode)|-Updated scope crosshair on Scoped AR and Thermal AR"
+	},
+	"7.10 [4667333]": {
+		"url": "https://cdn.fnbuilds.services/7.10.rar",
+		"title": "Chapter 1, Season 7",
+		"release_date": "12-18-2018",
+		"engine_version": "UE4.22",
+		"splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
+		"notes": "-14 Days of Fortnite Challenges Event|-Ground vehicles now slide on icy surfaces"
+	},
+	"7.20 [4727874]": {
+		"url": "https://cdn.fnbuilds.services/7.20.rar",
+		"title": "Chapter 1, Season 7",
+		"release_date": "01-22-2019",
+		"engine_version": "UE4.22",
+		"splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
+		"notes": "-Sneaky Snowman Added|-Limited Time Mode: Sniper Shootout|-Swapped the drop chance of Shield Potions and Small Shield Potions"
+	},
+	"7.30 [4834550]": {
+		"url": "https://cdn.fnbuilds.services/7.30.zip",
+		"title": "Chapter 1, Season 7",
+		"release_date": "01-29-2019",
+		"engine_version": "UE4.22",
+		"splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
+		"notes": "-Marshmello Event!|-Chiller Grenades added|-Limited Time Mode: Solid Gold|-Cozy Campfire - Updated Visuals"
+	},
+	"7.40 [5046157]": {
+		"url": "https://cdn.fnbuilds.services/7.40.rar",
+		"title": "Chapter 1, Season 7",
+		"release_date": "02-13-2019",
+		"engine_version": "UE4.22",
+		"splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
+		"notes": "-Infantry Rifle added|-Limited Time Mode: Catch!|-Limited Time Mode: Team Rumble"
+	},
+	"8.00 [5203069]": {
+		"url": "https://cdn.fnbuilds.services/8.00.zip",
+		"title": "Chapter 1, Season 8",
+		"release_date": "02-28-2019",
+		"engine_version": "UE4.22",
+		"splash": "https://i.ibb.co/hHPYxWn/Butterfly-Launcher-Splash-v8-00-8-51.jpg",
+		"notes": "-New Locations: Sunny Steps & Lazy Lagoon|-Added Pirate Cannon"
+	},
+	"8.20 [5625478]": {
+		"url": "https://cdn.fnbuilds.services/8.20.rar",
+		"title": "Chapter 1, Season 8",
+		"release_date": "03-27-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/hHPYxWn/Butterfly-Launcher-Splash-v8-00-8-51.jpg",
+		"notes": "-Boom Bow Added|-Sniper Shootout LTM"
+	},
+	"8.40 [6005771]": {
+		"url": "https://cdn.fnbuilds.services/8.40.zip",
+		"title": "Chapter 1, Season 8",
+		"release_date": "04-17-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/hHPYxWn/Butterfly-Launcher-Splash-v8-00-8-51.jpg",
+		"notes": "-Air Royale LTM|-Food Fight - Deep Fried LTM|-Egg Launcher is back"
+	},
+	"8.50 [6058028]": {
+		"url": "https://cdn.fnbuilds.services/8.50.zip",
+		"title": "Chapter 1, Season 8",
+		"release_date": "04-25-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/hHPYxWn/Butterfly-Launcher-Splash-v8-00-8-51.jpg",
+		"notes": "-Endgame LTM added|-Thanos and his Chitauri invade the Battle Royale island, in search of the six Infinity Stones"
+	},
+	"8.51 [6165369]": {
+		"url": "https://cdn.fnbuilds.services/8.51.rar",
+		"title": "Chapter 1, Season 8",
+		"release_date": "05-02-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/hHPYxWn/Butterfly-Launcher-Splash-v8-00-8-51.jpg",
+		"notes": "-Added Shadow Bomb|-Sound effects for Jetpacks were occasionally playing much louder than they should be"
+	},
+	"9.00 [6337466]": {
+		"url": "https://cdn.fnbuilds.services/9.00.zip",
+		"title": "Chapter 1, Season 9",
+		"release_date": "05-09-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/C0wqhHV/Butterfly-Launcher-Splash-v9-00-9-41.jpg",
+		"notes": "-Season 9 begins|-Classic Battle Royale with Three-Person Squads|-Solid Gold: Fight to the finish using Legendary weapons"
+	},
+	"9.01 [6428087]": {
+		"url": "https://cdn.fnbuilds.services/9.01.zip",
+		"title": "Chapter 1, Season 9",
+		"release_date": "05-15-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/C0wqhHV/Butterfly-Launcher-Splash-v9-00-9-41.jpg",
+		"notes": "-Added Tactical Assault Rifle|-Nerfed Drum Gun|-Vaulted Compact SMG"
+	},
+	"9.10 [6639283]": {
+		"url": "https://cdn.fnbuilds.services/9.10.rar",
+		"title": "Chapter 1, Season 9",
+		"release_date": "05-19-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/C0wqhHV/Butterfly-Launcher-Splash-v9-00-9-41.jpg",
+		"notes": "-Added Hot Spots and Unvaulted the Semi-Automatic Sniper Rifle|-Unvaulted Semi-Auto Sniper Rifle"
+	},
+	"9.21 [6922310]": {
+		"url": "https://cdn.fnbuilds.services/9.21.zip",
+		"title": "Chapter 1, Season 9",
+		"release_date": "06-12-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/C0wqhHV/Butterfly-Launcher-Splash-v9-00-9-41.jpg",
+		"notes": "-Added Proximity Grenade Launcher|-Increased Shield Potion availability"
+	},
+	"9.30 [7095426]": {
+		"url": "https://cdn.fnbuilds.services/9.30.zip",
+		"title": "Chapter 1, Season 9",
+		"release_date": "06-18-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/C0wqhHV/Butterfly-Launcher-Splash-v9-00-9-41.jpg",
+		"notes": "-Added Chug Splash|-Added Prop-o-matic & new islands to Creative"
+	},
+	"9.40 [7315705]": {
+		"url": "https://cdn.fnbuilds.services/9.40.zip",
+		"title": "Chapter 1, Season 9",
+		"release_date": "07-17-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/C0wqhHV/Butterfly-Launcher-Splash-v9-00-9-41.jpg",
+		"notes": "-Added Tactical Shotgun in Epic & Legendary Variants|-Vaulted Suppressed Sniper|-Unvaulted Bolt-Action Sniper"
+	},
+	"9.41 [7609292]": {
+		"url": "https://cdn.fnbuilds.services/9.41.rar",
+		"title": "Chapter 1, Season 9",
+		"release_date": "07-23-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/C0wqhHV/Butterfly-Launcher-Splash-v9-00-9-41.jpg",
+		"notes": "-Added Storm Scout Sniper Rifle|-Added Birthday Presents & Birthday Cake"
+	},
+	"10.00 [7704164]": {
+		"url": "https://cdn.fnbuilds.services/10.00.zip",
+		"title": "Chapter 1, Season 10/X",
+		"release_date": "08-01-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
+		"notes": "-Season 10 begins|-B.R.U.T.E. One player (the driver) controls movement, while the other (the gunner) rains down missiles and shotgun shots."
+	},
+	"10.10 [7955722]": {
+		"url": "https://cdn.fnbuilds.services/10.10.zip",
+		"title": "Chapter 1, Season 10/X",
+		"release_date": "08-14-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
+		"notes": "-World Run LTM|-Unvaulted the Sword Fight Squads and Duos LTMs|-Vaulted Ice Cream"
+	},
+	"10.20 [7955722]": {
+		"url": "https://cdn.fnbuilds.services/10.20.zip",
+		"title": "Chapter 1, Season 10/X",
+		"release_date": "08-27-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
+		"notes": "-Introducing Fortnite X Mayhem collab|-Added Shield Bubble"
+	},
+	"10.31 [7955722]": {
+		"url": "https://cdn.fnbuilds.services/10.31.zip",
+		"title": "Chapter 1, Season 10/X",
+		"release_date": "09-18-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
+		"notes": "-Added Party Hub|-Added mythic Batman Grapnel Gun & Explosive Batarang|-Rift Zone is now Gotham City"
+	},
+	"10.40 [9380822]": {
+		"url": "https://cdn.fnbuilds.services/10.40.rar",
+		"title": "Chapter 1, Season 10/X",
+		"release_date": "09-25-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
+		"notes": "-The End Event!|-Added the Combine and Starry Suburbs|-Limited Time Modes: Zone Wars"
+	},
+	"11.00 [9603448]": {
+		"url": "https://cdn.fnbuilds.services/11.00.zip",
+		"title": "Chapter 2, Season 1",
+		"release_date": "10-15-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/QcZdy4K/Butterfly-Launcher-Splash-v11-00-11-50.jpg",
+		"notes": "-Start of Chapter 2! (New Island)|-New Water Gameplay (swimming, fishing, boats)|-Hideouts (haystacks & dumpsters)"
+	},
+	"11.31 [10800459]": {
+		"url": "https://cdn.fnbuilds.services/11.31.rar",
+		"title": "Chapter 2, Season 1",
+		"release_date": "12-18-2019",
+		"engine_version": "UE4.23",
+		"splash": "https://i.ibb.co/QcZdy4K/Butterfly-Launcher-Splash-v11-00-11-50.jpg",
+		"notes": "-Introducing Battle Lab|-Winterfest 2019 has started and the entire island is covered with snow"
+	},
+	"12.00 [12905909]": {
+		"url": "https://cdn.fnbuilds.services/12.00.rar",
+		"title": "Chapter 2, Season 2",
+		"release_date": "02-20-2020",
+		"engine_version": "UE4.24",
+		"splash": "https://i.ibb.co/82VGcgn/Butterfly-Launcher-Splash-v12-00-12-60.jpg",
+		"notes": "-The island has been taken over by covert operatives - GHOST and SHADOW|-Discover exotic new locations through the island"
+	},
+	"12.21 [12353830]": {
+		"url": "https://cdn.fnbuilds.services/12.21.zip",
+		"title": "Chapter 2, Season 2",
+		"release_date": "03-24-2020",
+		"engine_version": "UE4.24",
+		"splash": "https://i.ibb.co/82VGcgn/Butterfly-Launcher-Splash-v12-00-12-60.jpg",
+		"notes": "-Operation: Knockout LTM|-Added Awaken Oro Challenges"
+	},
+	"12.41 [12905909]": {
+		"url": "https://cdn.fnbuilds.services/Fortnite%2012.41.zip",
+		"title": "Chapter 2, Season 2",
+		"release_date": "04-21-2020",
+		"engine_version": "UE4.25",
+		"splash": "https://i.ibb.co/82VGcgn/Butterfly-Launcher-Splash-v12-00-12-60.jpg",
+		"notes": "-Travis Scott's Astronomical Event!|-Everybody with a Fortnite account at the time of the update received the Fryangles Wrap"
+	},
+	"12.50 [13137020]": {
+		"url": "https://cdn.fnbuilds.services/12.50.zip",
+		"title": "Chapter 2, Season 2",
+		"release_date": "04-29-2020",
+		"engine_version": "UE4.25",
+		"splash": "https://i.ibb.co/82VGcgn/Butterfly-Launcher-Splash-v12-00-12-60.jpg",
+		"notes": "-Heavy Sniper Rifle Damage reduced to 126 (315 headshot)|-Risky Reels became a named location for the first time since Season 7"
+	},
+	"12.61 [13498980]": {
+		"url": "https://cdn.fnbuilds.services/12.61.zip",
+		"title": "Chapter 2, Season 2",
+		"release_date": "05-26-2020",
+		"engine_version": "UE4.25",
+		"splash": "https://i.ibb.co/82VGcgn/Butterfly-Launcher-Splash-v12-00-12-60.jpg",
+		"notes": "-The Device Event!|-Added Storm The Agency Challenges to the game"
+	},
+	"13.00 [13649278]": {
+		"url": "https://cdn.fnbuilds.services/13.00.rar",
+		"title": "Chapter 2, Season 3",
+		"release_date": "06-17-2020",
+		"engine_version": "UE4.26",
+		"splash": "https://i.ibb.co/tPrxwsj/Butterfly-Launcher-Splash-v13-00-13-40.jpg",
+		"notes": "-Added Charge Shotgun|-Added Mythic Items|-More sidegrading options"
+	},
+	"13.40 [14113327]": {
+		"url": "https://cdn.fnbuilds.services/13.40.zip",
+		"title": "Chapter 2, Season 3",
+		"release_date": "09-05-2020",
+		"engine_version": "UE4.26",
+		"splash": "https://i.ibb.co/tPrxwsj/Butterfly-Launcher-Splash-v13-00-13-40.jpg",
+		"notes": "-New driveable cars|-Nerfed the time to consume fish from 1 to 2s"
+	},
+	"14.40 [14550713]": {
+		"url": "https://cdn.fnbuilds.services/14.40.rar",
+		"title": "Chapter 2, Season 4",
+		"release_date": "10-21-2020",
+		"engine_version": "UE4.26",
+		"splash": "https://i.ibb.co/Zfh2g2R/Butterfly-Launcher-Splash-v14-00-14-60.jpg",
+		"notes": "-The Ruins added|-Witch Shacks added|-Shadow Midas Boss and Spawns at The Ruins"
+	},
+	"14.60 [14786821]": {
+		"url": "https://cdn.fnbuilds.services/14.60.rar",
+		"title": "Chapter 2, Season 4",
+		"release_date": "11-18-2020",
+		"engine_version": "UE4.26",
+		"splash": "https://i.ibb.co/Zfh2g2R/Butterfly-Launcher-Splash-v14-00-14-60.jpg",
+		"notes": "-Groot's Bramble Shield Unvaulted|-Venom’s Smash & Grab Added"
+	},
+	"15.30 [15341163]": {
+		"url": "https://cdn.fnbuilds.services/15.30.rar",
+		"title": "Chapter 2, Season 5",
+		"release_date": "02-02-2021",
+		"engine_version": "UE4.26",
+		"splash": "https://i.ibb.co/MZtgD6P/Butterfly-Launcher-Splash-v15-00-15-50.jpg",
+		"notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit’s Cantina"
+	},
+	"16.40 [16218553]": {
+		"url": "https://cdn.fnbuilds.services/16.40.rar",
+		"title": "Chapter 2, Season 6",
+		"release_date": "05-11-2021",
+		"engine_version": "UE4.26.1",
+		"splash": "https://i.ibb.co/N7sSX7C/Butterfly-Launcher-Splash-v16-00-16-50.jpg",
+		"notes": "-Orelia Arrives|-Added Exotic Marksman Six Shooter|-Vaulted The Dub"
+	},
+	"17.30 [16218553]": {
+		"url": "https://cdn.fnbuilds.services/17.30.zip",
+		"title": "Chapter 2, Season 7",
+		"release_date": "08-03-2021",
+		"engine_version": "UE4.26.1",
+		"splash": "https://i.ibb.co/wyRKMj1/Butterfly-Launcher-Splash-v17-00-17-40.jpg",
+		"notes": "-Slurpy Swamp Scrambled|-New LTM: Team Brawl!"
+	},
+	"17.50 [17388565]": {
+		"url": "https://cdn.fnbuilds.services/17.50.zip",
+		"title": "Chapter 2, Season 7",
+		"release_date": "08-31-2021",
+		"engine_version": "UE4.26.1",
+		"splash": "https://i.ibb.co/wyRKMj1/Butterfly-Launcher-Splash-v17-00-17-40.jpg",
+		"notes": "-Wild Week #3 of the Invasion: High Tech Hijinks|-Playlist menu update"
+	},
+	"18.40 [18163738]": {
+		"url": "https://cdn.fnbuilds.services/18.40.zip",
+		"title": "Chapter 2, Season 8",
+		"release_date": "11-16-2021",
+		"engine_version": "UE4.26.1",
+		"splash": "https://i.ibb.co/qm0BmsQ/Butterfly-Launcher-Splash-v18-00-18-40.jpg",
+		"notes": "-Naruto & Team 7 in Fortnite!|-Shopping Carts are back"
+	},
+	"19.10 [18675304]": {
+		"url": "https://cdn.fnbuilds.services/19.10.rar",
+		"title": "Chapter 3, Season 1",
+		"release_date": "01-18-2022",
+		"engine_version": "UE5.0.1",
+		"splash": "https://i.ibb.co/9wPQtCg/Butterfly-Launcher-Splash-v19-00-19-40.jpg",
+		"notes": "-Added Klombo & Klomberry|-Unvaulted Grenade Launcher & Rocket Launcher"
+	},
+	"20.40 [20244966]": {
+		"url": "https://cdn.fnbuilds.services/20.40.zip",
+		"title": "Chapter 3, Season 2",
+		"release_date": "05-17-2022",
+		"engine_version": "UE5.0.1",
+		"splash": "https://i.ibb.co/8gj3672/Butterfly-Launcher-Splash-v20-00-20-40.jpg",
+		"notes": "-Sideways Shadow Week|-Zero Build Mode"
+	},
+	"7.40 [Manifest]": {
+		"url": "https://manifest.fnbuilds.services/7.40/7.40.manifest",
+		"title": "Chapter 1, Season 7",
+    "release_date": "02-13-2019",
+    "engine_version": "UE4.22",
+    "splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
+    "notes": "-Infantry Rifle added|-Limited Time Mode: Catch!|-Limited Time Mode: Team Rumble"
+	}
+}
