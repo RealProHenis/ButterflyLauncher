@@ -149,6 +149,16 @@
         "splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
         "notes": "-Season 3 Battle Pass|-60 FPS on Console"
     },
+    "3.1 [3915963]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/3.1.rar"
+        ],
+        "title": "Chapter 1, Season 3",
+        "release_date": "02-28-2018",
+        "engine_version": "UE4.20",
+        "splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
+        "notes": "-Hunting Rifle and Lucky Landing added|-Adjusted inconsistent drop rates for various weapon rarities"
+    },
     "3.1 [3917250]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/3.1.1.zip"
@@ -157,7 +167,7 @@
         "release_date": "02-28-2018",
         "engine_version": "UE4.20",
         "splash": "https://i.ibb.co/q54D2HP/Butterfly-Launcher-Splash-v1-7-2-4-2.jpg",
-        "notes": "-Hunting Rifle and Lucky Landing added|-Adjusted inconsistent drop rates for various weapon rarities"
+        "notes": "-Added Hunting Rifle and Lucky Landing|-Adjusted inconsistent drop rates for various weapon rarities|-Crash fixes on all client platforms"
     },
     "3.2 [3935073]": {
         "urls": [
@@ -249,15 +259,25 @@
         "splash": "https://i.ibb.co/c8zD1b3/Butterfly-Launcher-Splash-v4-2-4-5.jpg",
         "notes": "-Dual Pistols added|-Celebrate summer with the Fireworks Launcher"
     },
-    "5.00 [4214610]": {
+    "5.00 [4204761]": {
         "urls": [
-            "compressed, https://public.simplyblk.xyz/5.0.1.rar"
+            "compressed, https://public.simplyblk.xyz/5.00.rar"
         ],
         "title": "Chapter 1, Season 5",
         "release_date": "07-12-2018",
         "engine_version": "UE4.21",
         "splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
-        "notes": "-S5 start|-ATK added|-Desert Biome Introduced|-New All Terrain Kart (ATK)! Grab some friends and go for a ride"
+        "notes": "-Start of Season 5|-New All Terrain Kart (ATK)! Grab some friends and go for a ride|-Desert Biome Introduced"
+    },
+    "5.00 [4214610]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/5.0.1.rar"
+        ],
+        "title": "Chapter 1, Season 5",
+        "release_date": "07-17-2018",
+        "engine_version": "UE4.21",
+        "splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
+        "notes": "-Added Submachine Gun|-Vaulted Tactical Submachine Gun"
     },
     "5.10 [4240749]": {
         "urls": [
@@ -299,16 +319,6 @@
         "splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
         "notes": "-High Stakes event|-Grappler added|-Limited Time Mode: The Getaway"
     },
-    "5.41 [4363240]": {
-        "urls": [
-            "compressed, https://public.simplyblk.xyz/5.41.zip"
-        ],
-        "title": "Chapter 1, Season 5",
-        "release_date": "09-19-2018",
-        "engine_version": "UE4.21",
-        "splash": "https://i.ibb.co/TbKSVSH/Butterfly-Launcher-Splash-v5-00-5-41.jpg",
-        "notes": "-Port-a-Fortress Added|-Spiky Stadium (Battle Royale - Playground)|-Limited Time Mode: Soaring Solos"
-    },
     "6.00 [4395664]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/6.00.rar"
@@ -319,6 +329,16 @@
         "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
         "notes": "-Shadow Stones, pets, and map changes|-Updated Map: Islands floating, crops growing, Storm approaching"
     },
+    "6.01 [4417689]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/6.01.rar"
+        ],
+        "title": "Chapter 1, Season 6",
+        "release_date": "10-03-2018",
+        "engine_version": "UE4.21",
+        "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+        "notes": "-Added Chiller Trip|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!"
+    },
     "6.01 [4424678]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/6.1.1.rar"
@@ -327,7 +347,17 @@
         "release_date": "10-03-2018",
         "engine_version": "UE4.21",
         "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
-        "notes": "-Chiller Added|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!"
+        "notes": "-Added Chiller Trip|-Added more options to Playground. Allowing you to change settings such as starting health, time of day, gravity, and more!"
+    },
+    "6.02 [4442095]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/6.02.rar"
+        ],
+        "title": "Chapter 1, Season 6",
+        "release_date": "10-10-2018",
+        "engine_version": "UE4.21",
+        "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+        "notes": "-Quad Launcher Added|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game"
     },
     "6.02 [4461277]": {
         "urls": [
@@ -337,7 +367,27 @@
         "release_date": "10-10-2018",
         "engine_version": "UE4.21",
         "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
-        "notes": "-Quad Launcher Added|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game"
+        "notes": "-Added Quad Launcher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has returned and can be looted in-game"
+    },
+    "6.10 [4464155]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/6.10.rar"
+        ],
+        "title": "Chapter 1, Season 6",
+        "release_date": "10-16-2018",
+        "engine_version": "UE4.21",
+        "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
+    },
+    "6.10 [4476098]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/6.10.1.rar"
+        ],
+        "title": "Chapter 1, Season 6",
+        "release_date": "10-16-2018",
+        "engine_version": "UE4.21",
+        "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
+        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
     },
     "6.10 [4480234]": {
         "urls": [
@@ -347,7 +397,7 @@
         "release_date": "10-16-2018",
         "engine_version": "UE4.21",
         "splash": "https://i.ibb.co/pzTjF2J/Butterfly-Launcher-Splash-v6-00-6-31.jpg",
-        "notes": "-Quadcrasher Added|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
+        "notes": "-Added Quadcrasher|-Limited Time Mode: Disco Domination|-The Port-a-Fortress has been disabled as we work to resolve some issues related to this item"
     },
     "6.21 [4526925]": {
         "urls": [
@@ -459,6 +509,16 @@
         "splash": "https://i.ibb.co/hHPYxWn/Butterfly-Launcher-Splash-v8-00-8-51.jpg",
         "notes": "-Boom Bow Added|-Sniper Shootout LTM"
     },
+    "8.30 [5793395]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/8.30.rar"
+        ],
+        "title": "Chapter 1, Season 8",
+        "release_date": "04-10-2019",
+        "engine_version": "UE4.23",
+        "splash": "https://i.ibb.co/hHPYxWn/Butterfly-Launcher-Splash-v8-00-8-51.jpg",
+        "notes": "-The Uncle Pete's Pizza Pit restaurant in Retail Row has expanded to include a second floor. The spinning tomato head from Tomato Town has also returned|-The Block has been changed into a temple area"
+    },
     "8.40 [6005771]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/8.40.zip"
@@ -563,7 +623,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/10.00.zip"
         ],
-        "title": "Chapter 1, Season 10/X",
+        "title": "Chapter 1, Season X",
         "release_date": "08-01-2019",
         "engine_version": "UE4.23",
         "splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
@@ -573,27 +633,27 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/10.10.zip"
         ],
-        "title": "Chapter 1, Season 10/X",
+        "title": "Chapter 1, Season X",
         "release_date": "08-14-2019",
         "engine_version": "UE4.23",
         "splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
         "notes": "-World Run LTM|-Unvaulted the Sword Fight Squads and Duos LTMs|-Vaulted Ice Cream"
     },
-    "10.20 [7955722]": {
+    "10.20 [8456527]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/10.20.zip"
         ],
-        "title": "Chapter 1, Season 10/X",
+        "title": "Chapter 1, Season X",
         "release_date": "08-27-2019",
         "engine_version": "UE4.23",
         "splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
         "notes": "-Introducing Fortnite X Mayhem collab|-Added Shield Bubble"
     },
-    "10.31 [7955722]": {
+    "10.31 [8723043]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/10.31.zip"
         ],
-        "title": "Chapter 1, Season 10/X",
+        "title": "Chapter 1, Season X",
         "release_date": "09-18-2019",
         "engine_version": "UE4.23",
         "splash": "https://i.ibb.co/sWWkRS7/Butterfly-Launcher-Splash-v10-00-10-40-1.jpg",
@@ -691,6 +751,7 @@
     },
     "13.40 [14113327]": {
         "urls": [
+            "fortnite_manfiest, 46087893156, https://github.com/polynite/fn-releases/raw/master/manifests/k39Q5tXfdlFV3Vi8tEWwdzJstOCncw.manifest",
             "compressed, https://public.simplyblk.xyz/13.40.zip"
         ],
         "title": "Chapter 2, Season 3",
@@ -698,6 +759,16 @@
         "engine_version": "UE4.26",
         "splash": "https://i.ibb.co/tPrxwsj/Butterfly-Launcher-Splash-v13-00-13-40.jpg",
         "notes": "-New driveable cars|-Nerfed the time to consume fish from 1 to 2s"
+    },
+    "14.00 [14211474]": {
+        "urls": [
+            "compressed, https://public.simplyblk.xyz/14.00.rar"
+        ],
+        "title": "Chapter 2, Season 4",
+        "release_date": "09-27-2020",
+        "engine_version": "UE4.26",
+        "splash": "https://i.ibb.co/Zfh2g2R/Butterfly-Launcher-Splash-v14-00-14-60.jpg",
+        "notes": "-Pleasant Park has been turned into Doom's Domain|-Galactus can now be seen in the sky|-The Yacht has been removed from the island"
     },
     "14.40 [14550713]": {
         "urls": [
@@ -719,6 +790,16 @@
         "splash": "https://i.ibb.co/Zfh2g2R/Butterfly-Launcher-Splash-v14-00-14-60.jpg",
         "notes": "-Groot's Bramble Shield Unvaulted|-Venom\u2019s Smash & Grab Added"
     },
+    "15.00 [14835335]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/pxgus3IjKexjBYe8O0qy6lPWTTBxOg.manifest"
+        ],
+        "title": "Chapter 2, Season 5",
+        "release_date": "12-02-2020",
+        "engine_version": "UE4.26",
+        "splash": "https://i.ibb.co/MZtgD6P/Butterfly-Launcher-Splash-v15-00-15-50.jpg",
+        "notes": "-The Zero Point was exposed and damaged|-A Coliseum was built south of The Orchard|-Wolverine has vanished from the island"
+    },
     "15.30 [15341163]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/15.30.rar"
@@ -728,6 +809,16 @@
         "engine_version": "UE4.26",
         "splash": "https://i.ibb.co/MZtgD6P/Butterfly-Launcher-Splash-v15-00-15-50.jpg",
         "notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit\u2019s Cantina"
+    },
+    "16.00 [15685441]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/0TUjehLQVK8zW6tqWkquGEm4QAE0xg.manifest"
+        ],
+        "title": "Chapter 2, Season 6",
+        "release_date": "03-16-2021",
+        "engine_version": "UE4.26.1",
+        "splash": "https://i.ibb.co/N7sSX7C/Butterfly-Launcher-Splash-v16-00-16-50.jpg",
+        "notes": "-The Colossal Coliseum was destroyed by the pulse|-Hunter's Haven was removed and replaced by a landmark called Primal Pond"
     },
     "16.40 [16218553]": {
         "urls": [
@@ -739,7 +830,7 @@
         "splash": "https://i.ibb.co/N7sSX7C/Butterfly-Launcher-Splash-v16-00-16-50.jpg",
         "notes": "-Orelia Arrives|-Added Exotic Marksman Six Shooter|-Vaulted The Dub"
     },
-    "17.30 [16218553]": {
+    "17.30 [17004569]": {
         "urls": [
             "compressed, https://public.simplyblk.xyz/17.30.zip"
         ],
@@ -758,6 +849,66 @@
         "engine_version": "UE4.26.1",
         "splash": "https://i.ibb.co/wyRKMj1/Butterfly-Launcher-Splash-v17-00-17-40.jpg",
         "notes": "-Wild Week #3 of the Invasion: High Tech Hijinks|-Playlist menu update"
+    },
+    "18.00 [17468642]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/mh3_CA8IVhnXD5PIZkKw-9yyY0jaQw.manifest"
+        ],
+        "title": "Chapter 2, Season 8",
+        "release_date": "09-13-2021",
+        "engine_version": "UE4.26.1",
+        "splash": "https://i.ibb.co/qm0BmsQ/Butterfly-Launcher-Splash-v18-00-18-40.jpg",
+        "notes": "-The Mothership has crash landed south of the Island|-The IO have begun repairing Holly Hatchery|-Multiple Abductors have crashed on the island"
+    },
+    "18.10 [17661844]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/hu7N3s__H28na2Oro06-draLSCt5UQ.manifest"
+        ],
+        "title": "Chapter 2, Season 8",
+        "release_date": "09-28-2021",
+        "engine_version": "UE4.26.1",
+        "splash": "https://i.ibb.co/qm0BmsQ/Butterfly-Launcher-Splash-v18-00-18-40.jpg",
+        "notes": "-The Cube powering the Kevolution Energy power plant at Steamy Stacks escapes|-IO Convoy moves to Destroyed Dish"
+    },
+    "18.20 [17745267]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/NVDpDsRkObzIXej9LkeokHUwMj2B_A.manifest"
+        ],
+        "title": "Chapter 2, Season 8",
+        "release_date": "10-12-2021",
+        "engine_version": "UE4.26.1",
+        "splash": "https://i.ibb.co/qm0BmsQ/Butterfly-Launcher-Splash-v18-00-18-40.jpg",
+        "notes": "-The Golden Cube has arrived at The Aftermath|-Doctor Slone moves to Retail Row"
+    },
+    "18.20 [17792290]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/BfWO8e9010Z7Rt1wVUWCYBt5X-EhOQ.manifest"
+        ],
+        "title": "Chapter 2, Season 8",
+        "release_date": "10-12-2021",
+        "engine_version": "UE4.26.1",
+        "splash": "https://i.ibb.co/qm0BmsQ/Butterfly-Launcher-Splash-v18-00-18-40.jpg",
+        "notes": "-The Golden Cube has arrived at The Aftermath|-Doctor Slone moves to Retail Row"
+    },
+    "18.21 [17811397]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg.manifest"
+        ],
+        "title": "Chapter 2, Season 8",
+        "release_date": "10-19-2021",
+        "engine_version": "UE4.26.1",
+        "splash": "https://i.ibb.co/qm0BmsQ/Butterfly-Launcher-Splash-v18-00-18-40.jpg",
+        "notes": "-All Purple Cubes have merged together|-The Cube Queen emerges from the Golden Cube and hovers over The Convergence"
+    },
+    "18.30 [17882303]": {
+        "urls": [
+            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/qtQkupWgkRT0VojLbEyVUX_v2CJsPA.manifest"
+        ],
+        "title": "Chapter 2, Season 8",
+        "release_date": "10-26-2021",
+        "engine_version": "UE4.26.1",
+        "splash": "https://i.ibb.co/qm0BmsQ/Butterfly-Launcher-Splash-v18-00-18-40.jpg",
+        "notes": "-Doctor Slone and the IO convoy open the **REDACTED** bunker door|-The Convergence changes slightly and adds a Cube bouncer"
     },
     "18.40 [18163738]": {
         "urls": [
@@ -789,22 +940,30 @@
         "splash": "https://i.ibb.co/8gj3672/Butterfly-Launcher-Splash-v20-00-20-40.jpg",
         "notes": "-Sideways Shadow Week|-Zero Build Mode"
     },
-    "7.40 [Custom Manifest]": {
+    "21.10 [20696680]": {
         "urls": [
-            "custom_manifest, https://manifest.simplyblk.xyz/7.40/7.40.manifest"
+            "fortnite_manfiest, 35024441180, https://github.com/polynite/fn-releases/raw/master/manifests/-Yybxi9oJtChHWh2d0ya33nKGk7YkA.manifest"
         ],
-        "size": "43325065599",
-        "title": "Chapter 1, Season 7",
-        "release_date": "02-13-2019",
-        "engine_version": "UE4.22",
-        "splash": "https://i.ibb.co/S50xncH/Butterfly-Launcher-Splash-v7-00-7-40.jpg",
-        "notes": "-Infantry Rifle added|-Limited Time Mode: Catch!|-Limited Time Mode: Team Rumble"
+        "title": "Chapter 3, Season 3",
+        "release_date": "06-21-2022",
+        "engine_version": "UE5.0.1",
+        "splash": "https://i.ibb.co/h94HwjZ/v21-00-v21-51.jpg",
+        "notes": "-The pink blossom tree has grown into a smaller Reality Tree|-Imperial Docking Bays have been built around the island"
     },
-    "24.10 [Fortnite Manifest]": {
+    "24.10 [24770548]": {
         "urls": [
-            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/yJzmpr7dX8g0Q2t7vEyYqNfGYXezfg.manifest"
+            "fortnite_manfiest, 46618671841, https://github.com/polynite/fn-releases/raw/master/manifests/yJzmpr7dX8g0Q2t7vEyYqNfGYXezfg.manifest"
         ],
-        "size": "51079523860",
+        "title": "Chapter 4, Season 2",
+        "release_date": "03-29-2023",
+        "engine_version": "UE5.1.1",
+        "splash": "https://i.ibb.co/Np3z03q/v24-00-v24-40.jpg",
+        "notes": "-Added Cherry Blossom Trees|-Added Wanted Posters of Triarch Nox|-Added a Reboot Van & Launch Pad to Loot Island"
+    },
+    "24.10 [24903530]": {
+        "urls": [
+            "fortnite_manfiest, 46633309962, https://github.com/polynite/fn-releases/raw/master/manifests/N0zfnTCBNb4rhEbNm0izqdHiVbCoaQ.manifest"
+        ],
         "title": "Chapter 4, Season 2",
         "release_date": "03-29-2023",
         "engine_version": "UE5.1.1",
