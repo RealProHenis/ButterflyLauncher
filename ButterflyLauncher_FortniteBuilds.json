@@ -481,6 +481,7 @@
     },
     "7.40 [5046157]": {
         "urls": [
+            "custom_manifest, 43325065599, https://manifest.simplyblk.xyz/7.40/7.40.manifest",
             "compressed, https://public.simplyblk.xyz/7.40.rar"
         ],
         "title": "Chapter 1, Season 7",
@@ -751,7 +752,7 @@
     },
     "13.40 [14113327]": {
         "urls": [
-            "fortnite_manfiest, 46087893156, https://github.com/polynite/fn-releases/raw/master/manifests/k39Q5tXfdlFV3Vi8tEWwdzJstOCncw.manifest",
+            "fortnite_manifest, 46087893156, https://github.com/polynite/fn-releases/raw/master/manifests/k39Q5tXfdlFV3Vi8tEWwdzJstOCncw.manifest",
             "compressed, https://public.simplyblk.xyz/13.40.zip"
         ],
         "title": "Chapter 2, Season 3",
@@ -852,7 +853,7 @@
     },
     "18.00 [17468642]": {
         "urls": [
-            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/mh3_CA8IVhnXD5PIZkKw-9yyY0jaQw.manifest"
+            "fortnite_manifest, https://github.com/polynite/fn-releases/raw/master/manifests/mh3_CA8IVhnXD5PIZkKw-9yyY0jaQw.manifest"
         ],
         "title": "Chapter 2, Season 8",
         "release_date": "09-13-2021",
@@ -862,7 +863,7 @@
     },
     "18.10 [17661844]": {
         "urls": [
-            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/hu7N3s__H28na2Oro06-draLSCt5UQ.manifest"
+            "fortnite_manifest, https://github.com/polynite/fn-releases/raw/master/manifests/hu7N3s__H28na2Oro06-draLSCt5UQ.manifest"
         ],
         "title": "Chapter 2, Season 8",
         "release_date": "09-28-2021",
@@ -872,7 +873,7 @@
     },
     "18.20 [17745267]": {
         "urls": [
-            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/NVDpDsRkObzIXej9LkeokHUwMj2B_A.manifest"
+            "fortnite_manifest, https://github.com/polynite/fn-releases/raw/master/manifests/NVDpDsRkObzIXej9LkeokHUwMj2B_A.manifest"
         ],
         "title": "Chapter 2, Season 8",
         "release_date": "10-12-2021",
@@ -882,7 +883,7 @@
     },
     "18.20 [17792290]": {
         "urls": [
-            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/BfWO8e9010Z7Rt1wVUWCYBt5X-EhOQ.manifest"
+            "fortnite_manifest, https://github.com/polynite/fn-releases/raw/master/manifests/BfWO8e9010Z7Rt1wVUWCYBt5X-EhOQ.manifest"
         ],
         "title": "Chapter 2, Season 8",
         "release_date": "10-12-2021",
@@ -892,7 +893,7 @@
     },
     "18.21 [17811397]": {
         "urls": [
-            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg.manifest"
+            "fortnite_manifest, https://github.com/polynite/fn-releases/raw/master/manifests/OW-ufOH2A5Ofv8BdZkqkK7BdOh5_lg.manifest"
         ],
         "title": "Chapter 2, Season 8",
         "release_date": "10-19-2021",
@@ -902,7 +903,7 @@
     },
     "18.30 [17882303]": {
         "urls": [
-            "fortnite_manfiest, https://github.com/polynite/fn-releases/raw/master/manifests/qtQkupWgkRT0VojLbEyVUX_v2CJsPA.manifest"
+            "fortnite_manifest, https://github.com/polynite/fn-releases/raw/master/manifests/qtQkupWgkRT0VojLbEyVUX_v2CJsPA.manifest"
         ],
         "title": "Chapter 2, Season 8",
         "release_date": "10-26-2021",
@@ -942,7 +943,7 @@
     },
     "21.10 [20696680]": {
         "urls": [
-            "fortnite_manfiest, 35024441180, https://github.com/polynite/fn-releases/raw/master/manifests/-Yybxi9oJtChHWh2d0ya33nKGk7YkA.manifest"
+            "fortnite_manifest, 35024441180, https://github.com/polynite/fn-releases/raw/master/manifests/-Yybxi9oJtChHWh2d0ya33nKGk7YkA.manifest"
         ],
         "title": "Chapter 3, Season 3",
         "release_date": "06-21-2022",
@@ -952,7 +953,7 @@
     },
     "24.10 [24770548]": {
         "urls": [
-            "fortnite_manfiest, 46618671841, https://github.com/polynite/fn-releases/raw/master/manifests/yJzmpr7dX8g0Q2t7vEyYqNfGYXezfg.manifest"
+            "fortnite_manifest, 46618671841, https://github.com/polynite/fn-releases/raw/master/manifests/yJzmpr7dX8g0Q2t7vEyYqNfGYXezfg.manifest"
         ],
         "title": "Chapter 4, Season 2",
         "release_date": "03-29-2023",
@@ -962,7 +963,7 @@
     },
     "24.10 [24903530]": {
         "urls": [
-            "fortnite_manfiest, 46633309962, https://github.com/polynite/fn-releases/raw/master/manifests/N0zfnTCBNb4rhEbNm0izqdHiVbCoaQ.manifest"
+            "fortnite_manifest, 46633309962, https://github.com/polynite/fn-releases/raw/master/manifests/N0zfnTCBNb4rhEbNm0izqdHiVbCoaQ.manifest"
         ],
         "title": "Chapter 4, Season 2",
         "release_date": "03-29-2023",
