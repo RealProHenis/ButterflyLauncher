@@ -253,6 +253,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/4.5.rar"
         ],
+        "event": "Rocket Event",
         "title": "Chapter 1, Season 4",
         "release_date": "06-27-2018",
         "engine_version": "UE4.20",
@@ -303,6 +304,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/5.30.rar"
         ],
+        "event": "Crack Closure Event",
         "title": "Chapter 1, Season 5",
         "release_date": "08-23-2018",
         "engine_version": "UE4.21",
@@ -403,6 +405,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/6.21.rar"
         ],
+        "event": "Butterfly Event",
         "title": "Chapter 1, Season 6",
         "release_date": "11-01-2018",
         "engine_version": "UE4.21",
@@ -463,6 +466,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/7.20.rar"
         ],
+        "event": "Ice King Event",
         "title": "Chapter 1, Season 7",
         "release_date": "01-22-2019",
         "engine_version": "UE4.22",
@@ -473,6 +477,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/7.30.zip"
         ],
+        "event": "Marshmello Event",
         "title": "Chapter 1, Season 7",
         "release_date": "01-29-2019",
         "engine_version": "UE4.22",
@@ -544,6 +549,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/8.51.rar"
         ],
+        "event": "The Unvaulting Event",
         "title": "Chapter 1, Season 8",
         "release_date": "05-02-2019",
         "engine_version": "UE4.23",
@@ -604,6 +610,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/9.40.zip"
         ],
+        "event": "The Showdown Event",
         "title": "Chapter 1, Season 9",
         "release_date": "07-17-2019",
         "engine_version": "UE4.23",
@@ -614,6 +621,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/9.41.rar"
         ],
+        "event": "The Showdown Event",
         "title": "Chapter 1, Season 9",
         "release_date": "07-23-2019",
         "engine_version": "UE4.23",
@@ -664,6 +672,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/10.40.rar"
         ],
+        "event": "The End Event",
         "title": "Chapter 1, Season 10/X",
         "release_date": "09-25-2019",
         "engine_version": "UE4.23",
@@ -714,6 +723,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/Fortnite%2012.41.zip"
         ],
+        "event": "Astronomical Event",
         "title": "Chapter 2, Season 2",
         "release_date": "04-21-2020",
         "engine_version": "UE4.25",
@@ -734,6 +744,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/12.61.zip"
         ],
+        "event": "The Device Event",
         "title": "Chapter 2, Season 2",
         "release_date": "05-26-2020",
         "engine_version": "UE4.25",
@@ -785,6 +796,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/14.60.rar"
         ],
+        "event": "Devourer of Worlds Event",
         "title": "Chapter 2, Season 4",
         "release_date": "11-18-2020",
         "engine_version": "UE4.26",
@@ -835,6 +847,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/17.30.zip"
         ],
+        "event": "Rift Tour Event",
         "title": "Chapter 2, Season 7",
         "release_date": "08-03-2021",
         "engine_version": "UE4.26.1",
@@ -845,6 +858,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/17.50.zip"
         ],
+        "event": "Operation: Sky Fire Event",
         "title": "Chapter 2, Season 7",
         "release_date": "08-31-2021",
         "engine_version": "UE4.26.1",
@@ -915,6 +929,7 @@
         "urls": [
             "compressed, https://public.simplyblk.xyz/18.40.zip"
         ],
+        "event": "The End Event Chapter 2",
         "title": "Chapter 2, Season 8",
         "release_date": "11-16-2021",
         "engine_version": "UE4.26.1",
