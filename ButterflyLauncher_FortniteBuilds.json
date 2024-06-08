@@ -313,6 +313,7 @@
         "chapter": "Chapter 1",
         "season": "Season 4",
         "urls": [
+            "custom_manifest, 23813518672, https://manifest.simplyblk.xyz/4.1/4.1.manifest",
             "compressed, https://public.simplyblk.xyz/4.1.zip"
         ],
         "title": "Chapter 1, Season 4",
@@ -667,6 +668,7 @@
         "chapter": "Chapter 1",
         "season": "Season 7",
         "urls": [
+            "custom_manifest, 43116534171, https://manifest.simplyblk.xyz/7.30/7.30.manifest",
             "compressed, https://public.simplyblk.xyz/7.30.zip"
         ],
         "event": "Marshmello Event",
@@ -697,6 +699,7 @@
         "chapter": "Chapter 1",
         "season": "Season 8",
         "urls": [
+            "custom_manifest, 46576003129, https://manifest.simplyblk.xyz/8.00/8.00.manifest",
             "compressed, https://public.simplyblk.xyz/8.00.zip"
         ],
         "title": "Chapter 1, Season 8",
@@ -767,6 +770,7 @@
         "chapter": "Chapter 1",
         "season": "Season 8",
         "urls": [
+            "custom_manifest, 50374920347, https://manifest.simplyblk.xyz/8.51/8.51.manifest",
             "compressed, https://public.simplyblk.xyz/8.51.rar"
         ],
         "event": "The Unvaulting Event",
@@ -782,6 +786,7 @@
         "chapter": "Chapter 1",
         "season": "Season 9",
         "urls": [
+            "custom_manifest, 53593855275, https://manifest.simplyblk.xyz/9.00/9.00.manifest",
             "compressed, https://public.simplyblk.xyz/9.00.zip"
         ],
         "title": "Chapter 1, Season 9",
@@ -810,6 +815,7 @@
         "chapter": "Chapter 1",
         "season": "Season 9",
         "urls": [
+            "custom_manifest, 54606819736, https://manifest.simplyblk.xyz/9.10/9.10.manifest",
             "compressed, https://public.simplyblk.xyz/9.10.rar"
         ],
         "title": "Chapter 1, Season 9",
@@ -867,6 +873,7 @@
         "chapter": "Chapter 1",
         "season": "Season 9",
         "urls": [
+            "custom_manifest, 58854497688, https://manifest.simplyblk.xyz/9.41/9.41.manifest",
             "compressed, https://public.simplyblk.xyz/9.41.rar"
         ],
         "event": "The Showdown Event",
@@ -882,6 +889,7 @@
         "chapter": "Chapter 1",
         "season": "Season X",
         "urls": [
+            "custom_manifest, 59156023204, https://manifest.simplyblk.xyz/10.00/10.00.manifest",
             "compressed, https://public.simplyblk.xyz/10.00.zip"
         ],
         "title": "Chapter 1, Season X",
@@ -938,6 +946,7 @@
         "chapter": "Chapter 1",
         "season": "Season X",
         "urls": [
+            "custom_manifest, 65044654200, https://manifest.simplyblk.xyz/10.40/10.40.manifest",
             "compressed, https://public.simplyblk.xyz/10.40.rar"
         ],
         "event": "The End Event",
@@ -967,6 +976,7 @@
         "chapter": "Chapter 2",
         "season": "Season 1",
         "urls": [
+            "custom_manifest, 79560497585, https://manifest.simplyblk.xyz/11.31/11.31.manifest",
             "compressed, https://public.simplyblk.xyz/11.31.rar"
         ],
         "title": "Chapter 2, Season 1",
@@ -981,6 +991,7 @@
         "chapter": "Chapter 2",
         "season": "Season 2",
         "urls": [
+            "custom_manifest, 76561680844, https://manifest.simplyblk.xyz/12.00/12.00.manifest",
             "compressed, https://public.simplyblk.xyz/12.00.rar"
         ],
         "title": "Chapter 2, Season 2",
@@ -995,6 +1006,7 @@
         "chapter": "Chapter 2",
         "season": "Season 2",
         "urls": [
+            "custom_manifest, 83899993908, https://manifest.simplyblk.xyz/12.21/12.21.manifest",
             "compressed, https://public.simplyblk.xyz/12.21.zip"
         ],
         "title": "Chapter 2, Season 2",
@@ -1009,6 +1021,7 @@
         "chapter": "Chapter 2",
         "season": "Season 2",
         "urls": [
+            "custom_manifest, 89277042596, https://manifest.simplyblk.xyz/12.41/12.41.manifest",
             "compressed, https://public.simplyblk.xyz/Fortnite%2012.41.zip"
         ],
         "event": "Astronomical Event",
@@ -1024,6 +1037,7 @@
         "chapter": "Chapter 2",
         "season": "Season 2",
         "urls": [
+            "custom_manifest, 90172807372, https://manifest.simplyblk.xyz/12.50/12.50.manifest",
             "compressed, https://public.simplyblk.xyz/12.50.zip"
         ],
         "title": "Chapter 2, Season 2",
@@ -1038,6 +1052,7 @@
         "chapter": "Chapter 2",
         "season": "Season 2",
         "urls": [
+            "custom_manifest, 91097814254, https://manifest.simplyblk.xyz/12.61/12.61.manifest",
             "compressed, https://public.simplyblk.xyz/12.61.zip"
         ],
         "event": "The Device Event",
@@ -1068,6 +1083,7 @@
         "season": "Season 3",
         "urls": [
             "fortnite_manifest, 46087893156, https://github.com/polynite/fn-releases/raw/master/manifests/k39Q5tXfdlFV3Vi8tEWwdzJstOCncw.manifest",
+            "custom_manifest, 99521161875, https://manifest.simplyblk.xyz/13.40/13.40.manifest",
             "compressed, https://public.simplyblk.xyz/13.40.zip"
         ],
         "title": "Chapter 2, Season 3",
@@ -1090,12 +1106,27 @@
         "splash": "https://i.ibb.co/Zfh2g2R/Butterfly-Launcher-Splash-v14-00-14-60.jpg",
         "notes": "-Pleasant Park has been turned into Doom's Domain|-Galactus can now be seen in the sky|-The Yacht has been removed from the island"
     },
+    "14.30 [14456520]": {
+        "version": "14.30",
+        "build": "14456520",
+        "chapter": "Chapter 2",
+        "season": "Season 4",
+        "urls": [
+            "custom_manifest, 105768375958, https://manifest.simplyblk.xyz/14.30/14.30.manifest"
+        ],
+        "title": "Chapter 2, Season 4",
+        "release_date": "10-13-2020",
+        "engine_version": "UE4.26",
+        "splash": "https://i.ibb.co/Zfh2g2R/Butterfly-Launcher-Splash-v14-00-14-60.jpg",
+        "notes": "-Galactus has gotten closer|-Some Halloween decorations have begun to be set up around the island"
+    },
     "14.40 [14550713]": {
         "version": "14.40",
         "build": "14550713",
         "chapter": "Chapter 2",
         "season": "Season 4",
         "urls": [
+            "custom_manifest, 33874927954, https://manifest.simplyblk.xyz/14.40/14.40.manifest",
             "compressed, https://public.simplyblk.xyz/14.40.rar"
         ],
         "title": "Chapter 2, Season 4",
@@ -1110,6 +1141,7 @@
         "chapter": "Chapter 2",
         "season": "Season 4",
         "urls": [
+            "custom_manifest, 35796609482, https://manifest.simplyblk.xyz/14.60/14.60.manifest",
             "compressed, https://public.simplyblk.xyz/14.60.rar"
         ],
         "event": "Devourer of Worlds Event",
@@ -1147,6 +1179,20 @@
         "splash": "https://i.ibb.co/MZtgD6P/Butterfly-Launcher-Splash-v15-00-15-50.jpg",
         "notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit\u2019s Cantina"
     },
+    "15.50 [15526472]": {
+        "version": "15.30",
+        "build": "15526472",
+        "chapter": "Chapter 2",
+        "season": "Season 5",
+        "urls": [
+            "custom_manifest, 37528653666, https://manifest.simplyblk.xyz/15.50/15.50.manifest"
+        ],
+        "title": "Chapter 2, Season 5",
+        "release_date": "02-02-2021",
+        "engine_version": "UE4.26",
+        "splash": "https://i.ibb.co/MZtgD6P/Butterfly-Launcher-Splash-v15-00-15-50.jpg",
+        "notes": "-Added the Exotic Burst Quad Launcher|-Added the Exotic Chug Cannon|-Added Kit\u2019s Cantina"
+    },
     "16.00 [15685441]": {
         "version": "16.00",
         "build": "15685441",
@@ -1167,6 +1213,7 @@
         "chapter": "Chapter 2",
         "season": "Season 6",
         "urls": [
+            "custom_manifest, 40516334731, https://manifest.simplyblk.xyz/16.40/16.40.manifest",
             "compressed, https://public.simplyblk.xyz/16.40.rar"
         ],
         "title": "Chapter 2, Season 6",
@@ -1181,6 +1228,7 @@
         "chapter": "Chapter 2",
         "season": "Season 7",
         "urls": [
+            "custom_manifest, 43952359083, https://manifest.simplyblk.xyz/17.30/17.30.manifest",
             "compressed, https://public.simplyblk.xyz/17.30.zip"
         ],
         "event": "Rift Tour Event",
