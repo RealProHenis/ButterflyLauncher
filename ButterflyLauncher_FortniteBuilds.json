@@ -1392,7 +1392,105 @@
         "release_date": "06-21-2022",
         "engine_version": "UE5.0.1",
         "splash": "https://i.ibb.co/h94HwjZ/v21-00-v21-51.jpg",
-        "notes": "-The pink blossom tree has grown into a smaller Reality Tree|-Imperial Docking Bays have been built around the island"
+        "notes": "-The pink blossom tree at Butter Bloom has grown into a smaller Reality Tree|-Imperial Docking Bays have been built around the island"
+    },
+    "21.20 [20978394]": {
+        "version": "21.20",
+        "build": "20978394",
+        "chapter": "Chapter 3",
+        "season": "Season 3",
+        "urls": [
+            "fortnite_manifest, 35554551992, https://github.com/polynite/fn-releases/raw/master/manifests/g1LTcWSYRHRc5kLjlkONuiv8MVtd7w.manifest"
+        ],
+        "title": "Chapter 3, Season 3",
+        "release_date": "07-06-2022",
+        "engine_version": "UE5.0.1",
+        "splash": "https://i.ibb.co/h94HwjZ/v21-00-v21-51.jpg",
+        "notes": "-The pink blossom tree at Temple Bloom has grown into a smaller Reality Tree|-Cuddle Cruisers has been renamed to Syndicate Shoals"
+    },
+    "21.20 [21035704]": {
+        "version": "21.20",
+        "build": "21035704",
+        "chapter": "Chapter 3",
+        "season": "Season 3",
+        "urls": [
+            "fortnite_manifest, 35586664857, https://github.com/polynite/fn-releases/raw/master/manifests/xN36l1AnLX31v4RSfUyWdl5ExfKoYA.manifest"
+        ],
+        "title": "Chapter 3, Season 3",
+        "release_date": "07-06-2022",
+        "engine_version": "UE5.0.1",
+        "splash": "https://i.ibb.co/h94HwjZ/v21-00-v21-51.jpg",
+        "notes": "-The pink blossom tree at Temple Bloom has grown into a smaller Reality Tree|-Cuddle Cruisers has been renamed to Syndicate Shoals"
+    },
+    "21.50 [21657658]": {
+        "version": "21.50",
+        "build": "21657658",
+        "chapter": "Chapter 3",
+        "season": "Season 3",
+        "urls": [
+            "fortnite_manifest, 36560311419, https://github.com/polynite/fn-releases/raw/master/manifests/gDM5ebFV-IqAKqn6DE2RAorEPOnqxQ.manifest"
+        ],
+        "title": "Chapter 3, Season 3",
+        "release_date": "08-30-2022",
+        "engine_version": "UE5.0.1",
+        "splash": "https://i.ibb.co/h94HwjZ/v21-00-v21-51.jpg",
+        "notes": "-The pink blossom tree at Spawn Island has grown into a smaller Reality Tree|-All locations affected by the Reality Tree no longer changes with every match, instead being locked to a single theme and they have been renamed"
+    },
+    "22.20 [22600409]": {
+        "version": "22.20",
+        "build": "22600409",
+        "chapter": "Chapter 3",
+        "season": "Season 4",
+        "urls": [
+            "fortnite_manifest, 35934080860, https://github.com/polynite/fn-releases/raw/master/manifests/0ImR0jb_0dnUkK5Z6ka0OBkpv7iKsg.manifest"
+        ],
+        "title": "Chapter 3, Season 3",
+        "release_date": "10-18-2022",
+        "engine_version": "UE5.1.0",
+        "splash": "https://i.ibb.co/f2T3rpJ/v22-00-v22-40.jpg",
+        "notes": "-The pink blossom tree at Spawn Island has grown into a smaller Reality Tree|-All locations affected by the Reality Tree no longer changes with every match, instead being locked to a single theme and they have been renamed"
+    },
+    "22.40 [23070899]": {
+        "version": "22.40",
+        "build": "23070899",
+        "chapter": "Chapter 3",
+        "season": "Season 4",
+        "urls": [
+            "fortnite_manifest, 36928204308, https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest"
+        ],
+        "title": "Chapter 3, Season 4",
+        "release_date": "11-15-2022",
+        "engine_version": "UE5.1.0",
+        "splash": "https://i.ibb.co/f2T3rpJ/v22-00-v22-40.jpg",
+        "notes": "-Added Rocket Leagues Octane Car|-Added Grapple Glider|-Big Battle Limited Time Mode"
+    },
+    "23.40 [24087481]": {
+        "version": "23.40",
+        "build": "24087481",
+        "chapter": "Chapter 4",
+        "season": "Season 1",
+        "urls": [
+            "fortnite_manifest, 46316482724, https://github.com/polynite/fn-releases/raw/master/manifests/ogescm5CttfncfGWbUa1-EfOJSI86w.manifest"
+        ],
+        "title": "Chapter 4, Season 1",
+        "release_date": "02-14-2023",
+        "engine_version": "UE5.1.0",
+        "splash": "https://i.ibb.co/cXKJ0HX/v23-00-v23-50.jpg",
+        "notes": "-Cold Blooded Vaults, Bosses and Henchmen were added to Brutal Bastion, Faulty Splits, Shattered Slabs|-The Bamboo has been removed"
+    },
+    "23.50 [24441668]": {
+        "version": "23.50",
+        "build": "24441668",
+        "chapter": "Chapter 4",
+        "season": "Season 1",
+        "urls": [
+            "fortnite_manifest, 46864613376, https://github.com/polynite/fn-releases/raw/master/manifests/xi9aV9FCJaEpqYcwEkGla0jYnLjjWw.manifest"
+        ],
+        "title": "Chapter 4, Season 1",
+        "release_date": "02-28-2023",
+        "engine_version": "UE5.1.0",
+        "splash": "https://i.ibb.co/cXKJ0HX/v23-00-v23-50.jpg",
+        "notes": "-Unvaulted Infantry Rifle, Six Shooter, Mechanical Explosive Bow, & more!|-Vaulted Dual Pistols, Suppressed Pistol, Hand Cannon, & more!"
     },
     "24.10 [24770548]": {
         "version": "24.10",
