@@ -19,7 +19,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • Explore old Fortnite maps in Singleplayer mode (thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor)) <br>
 • Re-watch old events like Marshmello, Astronomical, The End, The Device, The Showdown, & more!<br>
 • Host your own games of old Fortnite to play with friends (recommended: [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))<br>
-• Server Browser that allows you to connect & play on public servers <br>
+• Server Browser that allows you to play against people from around the world <br>
 • Saved in-game settings (thanks to [LawinServer](https://github.com/Lawin0129/LawinServer) by [Lawin0129](https://github.com/Lawin0129))<br>
 • Customize your Fortnite experience, such as the Item Shop, vBucks, and Support-a-Creator codes *(cosmetic only)* <br>
 
