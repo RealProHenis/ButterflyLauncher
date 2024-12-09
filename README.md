@@ -20,7 +20,7 @@ Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to
 • **Re-watch old events like Marshmello, Astronomical, The End, The Device, The Showdown, & more** <br>
 • **Host your own games of old Fortnite to play with friends** *(thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))* <br>
 • **Server Browser to play against people from around the world** <br>
-• **Customize your Fortnite experience, such as the Item Shop, vBucks, and Support-a-Creator codes** *(cosmetic only)* <br>
+• **Customize your Fortnite experience (Item Shop, vBucks, and Support-a-Creator codes)** *(cosmetic only)* <br>
 
 ## 💙Special Thanks
 None of this would be possible without help from these legends:<br>
