@@ -17,7 +17,7 @@ Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/Butte
 Windows Security & other antivirus software might false flag the Butterfly Launcher as a virus.<br><br>
 The Butterfly Launcher injects special code into old versions of Fortnite in order to make them playable. These actions are sometimes interpretted by antivirus software to be malicious.<br><br>
 To prevent Windows from deleting the Butterfly Launcher or causing other issues, you can add an exclusion for it in Windows Security. You'll need to add an exclusion for `ButterflyLauncher` folder, located in local appdata. *`(ex. C:\Users\YourName\AppData\Local\ButterflyLauncher)`* <br>
-If you're using a third-party antivirus, (Norton, McAfee, etc.) you'll need to add the exclusion for them as well.
+If you're using a third-party antivirus, (Norton, McAfee, etc.) you'll need to add the exclusion in their software as well.
 
 **NOTE:** You only need to add an exclusion if you're having issues playing old Fortnite <br><br>
 Learn more here: https://support.microsoft.com/en-us/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26<br>
