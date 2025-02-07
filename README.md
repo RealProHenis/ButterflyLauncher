@@ -9,7 +9,7 @@ Latest Version: https://github.com/RealProHenis/ButterflyLauncher/raw/main/Butte
 • **100+ Fortnite versions available for download** *(thanks to [blk](https://github.com/simplyblk/Fortnitebuilds) & [notsamicc](https://github.com/notsamicc/Fortnite-Builds))* <br>
 • **Explore old Fortnite maps in Singleplayer mode** *(thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))* <br>
 • **Experience in-game events like Marshmello, Astronomical, The End & more** <br>
-• **Host your own games of old Fortnite to play with friends** *(thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))* <br>
+• **Host yourn own custom servers to play with friends** *(thanks to [Project Reboot 3.0](https://github.com/Milxnor/Project-Reboot-3.0) by [Milxnor](https://github.com/Milxnor))* <br>
 • **Server Browser to play against people from around the world** <br>
 • **Customize your Fortnite experience (Item Shop, vBucks, and Support-a-Creator codes)** *(cosmetic only)* <br>
 
